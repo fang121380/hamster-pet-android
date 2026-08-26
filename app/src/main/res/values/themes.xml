@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.HamsterPet" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="colorPrimary">@color/pet_primary</item>
+        <item name="colorSecondary">@color/pet_status</item>
+        <item name="android:colorAccent">@color/pet_primary</item>
+        <item name="android:windowBackground">@color/pet_background</item>
+        <item name="android:navigationBarColor">@color/pet_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/pet_background</item>
+    </style>
+</resources>
