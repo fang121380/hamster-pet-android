@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">仓鼠小梵</string>
+    <string name="overlay_channel">仓鼠桌宠运行中</string>
+    <string name="overlay_channel_description">让仓鼠桌宠保持在屏幕上</string>
+    <string name="baby_title">幼崽 %1$d · %2$s</string>
+    <string name="bgm_track_details">%1$s · %2$s · CC0</string>
+</resources>
